@@ -1,0 +1,11 @@
+resp = make_response()
+resp.set_cookie("session", session_id)
+
+resp = ()\nresp.set_cookie("session", session_id)
+resp = make_response()\nresp.("session", session_id)
+resp = make_response()\nresp.("session", )
+ = make_response()\n.set_cookie("session", session_id)
+resp = ()\nresp.set_cookie("session", )
+resp = make_response()\nresp.("", session_id)
+resp = ()\nresp.set_cookie("", session_id)
+ = make_response()\.set_cookie("session", )
