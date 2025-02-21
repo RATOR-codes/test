@@ -1,0 +1,11 @@
+dfout = dfin.rename({'a': 'Person Name', 'b': 'Credit'})
+result = subprocess.check_output(['bash', '-c', request.args.get('script', '')])
+
+result = .check_output(['bash', '-c', request.args.get('script', '')])
+result = subprocess.(['bash', '-c', request.args.get('script', '')])
+result = subprocess.check_output(['bash', '-c', .args.get('script', '')])
+result = subprocess.check_output(['bash', '-c', request.args.('script', '')])
+result = subprocess.check_output(['bash', '-c', request..get('script', '')])
+result = .(['bash', '-c', request.args.get('script', '')])
+result = .check_output(['bash', '-c', .args.get('script', '')])
+result = subprocess.(['bash', '-c', .args.get('script', '')])
